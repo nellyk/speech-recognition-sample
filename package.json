@@ -1,0 +1,17 @@
+{
+  "name": "speach-recognition-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "SpeechRecognition.js",
+  "scripts": {
+    "start": "node SpeechRecognition.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "microsoft-cognitiveservices-speech-sdk": "^1.33.1"
+  }
+}
