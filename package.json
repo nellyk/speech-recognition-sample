@@ -10,7 +10,7 @@
   "type": "module",
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "dependencies": {
     "microsoft-cognitiveservices-speech-sdk": "^1.33.1"
   }
